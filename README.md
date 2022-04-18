@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/duxqds2n8/image/upload/v1648089749/Screen_Shot_2022-03-23_at_9.42.05_PM_wyvcel.png)
+![](https://github.com/Abdi-Aden/Abdi-Aden/blob/main/GitHub%20Banner.png)
 
 My name is Abdi and I'm a very enthusiastic software developer who is motivated to learn, grow, and excel as a developer while contributing to team success, being very meticulous, and having a clear understanding of agile methodology and the CICD. 
 
