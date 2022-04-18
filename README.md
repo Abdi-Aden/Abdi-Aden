@@ -24,6 +24,10 @@ My name is Abdi and I'm a very enthusiastic software developer who is motivated 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> </p>
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-aden&show_icons=true&locale=en&layout=compact" alt="abdi-aden" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-aden&" alt="abdi-aden" /></p>
 
 
 
