@@ -26,7 +26,7 @@ My name is Abdi and I'm a very enthusiastic software developer who is motivated 
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-aden&show_icons=true&locale=en&layout=compact" alt="abdi-aden" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-aden&" alt="abdi-aden" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-aden&" alt="abdi-aden" /></p>
 
 
 
