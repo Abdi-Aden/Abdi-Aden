@@ -1,6 +1,7 @@
 ![](https://github.com/Abdi-Aden/Abdi-Aden/blob/main/GitHub%20Banner.png)
 
-My name is Abdi and I'm a very enthusiastic software developer who is motivated to learn, grow, and excel as a developer while contributing to team success, being very meticulous, and having a clear understanding of agile methodology and the CICD. 
+# Hello there, and thank you for visiting my GitHub profile
+My name is Abdi and I'm a very enthusiastic software developer who is motivated to learn, grow, and excel as a developer while contributing to team success. I am a believer that there is no one solution to problems and everyone should be equiped with I love solving problems , and having a clear understanding of agile methodology and the CICD. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -24,9 +25,8 @@ My name is Abdi and I'm a very enthusiastic software developer who is motivated 
  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> </p>
  
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-aden&show_icons=true&locale=en&layout=compact" alt="abdi-aden" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-aden&show_icons=true&locale=en&layout=compact" alt="abdi-aden" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-aden&" alt="abdi-aden" /></p>
 
 
 
