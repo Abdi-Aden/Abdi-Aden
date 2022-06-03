@@ -1,9 +1,9 @@
 ![](https://github.com/Abdi-Aden/Abdi-Aden/blob/main/GitHub%20Banner.png)
 
-# Hello there, and thank you for visiting my GitHub profile
-My name is Abdi and I'm a very enthusiastic and passionate semi newbie :zany_face: software developer who is motivated to learn, grow, and excel as a developer while contributing to team success. I am a believer that there is no one solution to problems and everyone should be equiped with. I love solving problems , and having a clear understanding of agile methodology and the CICD. 
+# <p align="center">Hello there, and thank you for visiting my GitHub profile</p>
+My name is Abdi and I'm a very enthusiastic and passionate semi newbie :zany_face: software developer who is motivated to learn, grow, and excel as a developer while contributing to team success. I am curently working on an e-commerce page that uses python's fastApi framework for the backend and react for the frontend. 
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
